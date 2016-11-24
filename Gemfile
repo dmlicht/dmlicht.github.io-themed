@@ -16,7 +16,7 @@ gem "minima", "~> 2.0"
 # gem "leonids"
 # gem "leonids", :path => "./leonids-0.1.2.gem"
 
-# gem 'leonids', '0.1.3', :git => 'https://github.com/dmlicht/leonids.git'
+gem 'leonids', '0.1.3.3', :git => 'https://github.com/dmlicht/leonids.git'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
