@@ -27,7 +27,7 @@ github_username:  dmlicht
 
 # Build settings
 markdown: kramdown
-theme: leonids
+theme: minima
 gems:
   - jekyll-feed
 exclude:
